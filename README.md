@@ -12,7 +12,8 @@ The Program allows for 2 users or a user and computer to play the game rock pape
 
 | Behavior | Input | Output |
 |----------|-------|--------|
-|Receive a single-digit number and return the number in an English string|1|"one"|
+| | | |
+||"scissors"|true|
 
 
 ## Setup/Installation Requirements
