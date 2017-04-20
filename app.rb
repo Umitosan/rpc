@@ -5,7 +5,7 @@ require('sinatra/reloader')
 require('pry')
 also_reload('lib/**/*.rb')
 
-get('/game') do
+get('/') do
   erb(:form)
 end
 
