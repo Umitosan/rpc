@@ -24,7 +24,6 @@ class String
   end
 end
 
-
 #  OLDER VERSION
 # class String
 #   define_method(:beats) do |play1, play2|
